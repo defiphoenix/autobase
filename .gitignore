@@ -1,7 +1,6 @@
 .DS_Store
 .idea
 .venv
-.vscode/settings.json
 __pycache__/
 *.log
 molecule/**/tmp
@@ -9,3 +8,8 @@ molecule/**/tmp
 .ansible-lint-env
 # Docker Secrets directory created by docker-compose.secrets.yml
 console/secrets/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
